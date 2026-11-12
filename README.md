@@ -5,7 +5,6 @@ A fully responsive personal portfolio website built from scratch with HTML, CSS,
 ## Live Site
 
 **[razamughal333.github.io/Portfolio-v1](https://razamughal333.github.io/portfolio-v1/)**
-
 ---
 
 ## Features
