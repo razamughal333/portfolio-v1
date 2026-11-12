@@ -4,7 +4,7 @@ A fully responsive personal portfolio website built from scratch with HTML, CSS,
 
 ## Live Site
 
-**[razamughal333.github.io/Portfolio](https://razamughal333.github.io/Portfolio)**
+**[razamughal333.github.io/Portfolio-v1](https://razamughal333.github.io/portfolio-v1/)**
 
 ---
 
@@ -86,14 +86,14 @@ Portfolio/
 
 ## Contact
 
-| Channel   | Link |
-| --------- | ---- |
-| GitHub    | [github.com/razamughal333](https://github.com/razamughal333) |
+| Channel   | Link                                                                   |
+| --------- | ---------------------------------------------------------------------- |
+| GitHub    | [github.com/razamughal333](https://github.com/razamughal333)           |
 | LinkedIn  | [linkedin.com/in/raza-ahmed333](https://linkedin.com/in/raza-ahmed333) |
-| Email     | razahmedmughal@gmail.com |
-| Instagram | [@raza_mughal_333](https://instagram.com/raza_mughal_333) |
-| Twitter/X | [@RazaMughal_333](https://x.com/RazaMughal_333) |
-| Phone     | +92 336 2236669 |
+| Email     | razahmedmughal@gmail.com                                               |
+| Instagram | [@raza_mughal_333](https://instagram.com/raza_mughal_333)              |
+| Twitter/X | [@RazaMughal_333](https://x.com/RazaMughal_333)                        |
+| Phone     | +92 336 2236669                                                        |
 
 ---
 
